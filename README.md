@@ -1,0 +1,2 @@
+# freeCodeCamp_SalonAppointmentScheduler
+Salon Appointment Scheduler project for freeCodeCamp Relational Databases course
